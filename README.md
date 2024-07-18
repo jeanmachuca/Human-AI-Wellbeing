@@ -26,8 +26,8 @@ La IA tiene el potencial de mejorar significativamente el bienestar humano y la 
 
 # Link del Proyecto
 Puedes crear un enlace en GitHub con uno de estos nombres. Por ejemplo:
-* https://github.com/tuusuario/Human-AI-Wellbeing
-* https://github.com/tuusuario/AI4HumanInteraction
+* https://github.com/jeanmachuca/Human-AI-Wellbeing
+* https://github.com/jeanmachuca/AI4HumanInteraction
 Descripción del Proyecto
 Asegúrate de incluir una descripción clara y detallada en el README del proyecto. Aquí tienes un ejemplo:
 
