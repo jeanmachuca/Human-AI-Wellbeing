@@ -29,9 +29,7 @@ Puedes crear un enlace en GitHub con uno de estos nombres. Por ejemplo:
 * https://github.com/jeanmachuca/Human-AI-Wellbeing
 * https://github.com/jeanmachuca/AI4HumanInteraction
 Descripción del Proyecto
-Asegúrate de incluir una descripción clara y detallada en el README del proyecto. Aquí tienes un ejemplo:
 
-# Human-AI-Wellbeing
 Este proyecto de investigación explora cómo la inteligencia artificial (IA) puede ser adaptada para mejorar el bienestar humano y optimizar la interacción hombre-máquina. Nuestro objetivo es evaluar el impacto psicológico y social de la IA, identificar estrategias para mejorar la interacción humano-máquina y proponer recomendaciones para la implementación ética y efectiva de la IA.
 # Objetivos del Proyecto:
 1. Evaluar el impacto psicológico y social de la IA en los usuarios.
